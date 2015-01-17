@@ -1,0 +1,7 @@
+Bonus Tools:
+	1. HTML5 CANVAS(page turn)
+	2.CSS3(style.css,popup.css)
+	3.JQuery(Menu,registration,login,contact us,flipbook)
+	4.Advanced JavaScript
+
+	
